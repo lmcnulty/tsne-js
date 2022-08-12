@@ -1,3 +1,7 @@
+Upstream is old and has problematic dependencies.
+
+---
+
 # t-SNE.js
 
 [![build status](https://img.shields.io/travis/scienceai/tsne-js/master.svg?style=flat-square)](https://travis-ci.org/scienceai/tsne-js)
